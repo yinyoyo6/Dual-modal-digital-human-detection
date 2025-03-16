@@ -1,0 +1,18 @@
+# -*- coding: utf-8 -*-
+####镜像源加速安装 pip install -r requirement.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+##pytorch的官网从里面找下载指令 https://pytorch.org/
+
+numpy ==1.21.1
+matplotlib==3.7.5
+Pillow==9.5.0
+IPython==7.34.0
+tqdm==4.66.1
+soundfile==0.12.1
+librosa==0.10.1
+PyQt5==5.15.9
+PyQt5-tools==5.15.9.3.3
+opencv-python==4.8.0.76
+pandas==2.0.3
+Flask==3.0.1
+tensorboard==2.14.0
+seaborn==0.13.2
