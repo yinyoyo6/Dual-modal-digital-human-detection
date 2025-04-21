@@ -1,0 +1,13 @@
+{
+  "audio_path": "log\\mp3_history\\header_video_instant_avatar2_20250320_125636.mp3",
+  "score": 0.494467169046402,
+  "is_fake": false,
+  "anomalies": [
+    {
+      "type": "基频异常",
+      "confidence": 0.6768013863061062,
+      "time": "6秒处"
+    }
+  ],
+  "timestamp": "2025-03-20T12:56:38.917017"
+}

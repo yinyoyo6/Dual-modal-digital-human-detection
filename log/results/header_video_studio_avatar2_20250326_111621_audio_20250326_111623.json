@@ -1,0 +1,13 @@
+{
+  "audio_path": "a:\\真识\\log\\mp3_history\\header_video_studio_avatar2_20250326_111621.mp3",
+  "score": 0.5036392211914062,
+  "is_fake": true,
+  "anomalies": [
+    {
+      "type": "基频异常",
+      "confidence": 0.5428805396940457,
+      "time": "3秒处"
+    }
+  ],
+  "timestamp": "2025-03-26T11:16:23.608156"
+}

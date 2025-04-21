@@ -1,0 +1,18 @@
+{
+  "file_path": "A:/header_video_instant_avatar2.mp4",
+  "file_type": "video",
+  "has_audio": true,
+  "audio_score": 0.5153594017028809,
+  "video_score": 0.0,
+  "combined_score": 0.3092156410217285,
+  "is_fake": false,
+  "anomalies": [
+    {
+      "source": "audio",
+      "details": {
+        "error": "Numpy is not available"
+      }
+    }
+  ],
+  "timestamp": "2025-03-20T10:51:44.845734"
+}

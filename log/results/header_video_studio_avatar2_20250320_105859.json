@@ -1,0 +1,18 @@
+{
+  "file_path": "A:/真识/test.mp4/header_video_studio_avatar2.mp4",
+  "file_type": "video",
+  "has_audio": true,
+  "audio_score": 0.5031103491783142,
+  "video_score": 0.0,
+  "combined_score": 0.3018662095069885,
+  "is_fake": false,
+  "anomalies": [
+    {
+      "source": "audio",
+      "details": {
+        "error": "Numpy is not available"
+      }
+    }
+  ],
+  "timestamp": "2025-03-20T10:58:59.883322"
+}

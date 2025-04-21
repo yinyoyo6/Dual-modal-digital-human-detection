@@ -1,0 +1,18 @@
+{
+  "file_path": "C:/Users/ymh03/Videos/2月9日.mp4",
+  "file_type": "video",
+  "has_audio": true,
+  "audio_score": 0.5237742066383362,
+  "video_score": 0.0,
+  "combined_score": 0.3142645239830017,
+  "is_fake": false,
+  "anomalies": [
+    {
+      "source": "audio",
+      "details": {
+        "error": "Numpy is not available"
+      }
+    }
+  ],
+  "timestamp": "2025-03-20T10:57:49.104185"
+}

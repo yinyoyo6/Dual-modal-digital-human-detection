@@ -1,0 +1,19 @@
+{
+  "file_path": "A:/真识/test.mp4/header_video_instant_avatar2.mp4",
+  "file_type": "video",
+  "audio_score": 0.494467169046402,
+  "video_score": 0.4671249602522169,
+  "combined_score": 0.4780618437698909,
+  "is_fake": false,
+  "anomalies": [
+    {
+      "source": "audio",
+      "details": {
+        "type": "基频异常",
+        "confidence": 0.6768013863061062,
+        "time": "6秒处"
+      }
+    }
+  ],
+  "timestamp": "2025-03-20T12:56:39.591505"
+}

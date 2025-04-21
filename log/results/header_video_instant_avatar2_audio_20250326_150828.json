@@ -1,0 +1,13 @@
+{
+  "audio_path": "A:/真识/Nes2Net_ASVspoof_ITW/mp5/header_video_instant_avatar2.mp3",
+  "score": 0.49617910385131836,
+  "is_fake": false,
+  "anomalies": [
+    {
+      "type": "基频异常",
+      "confidence": 0.7428498812256759,
+      "time": "1秒处"
+    }
+  ],
+  "timestamp": "2025-03-26T15:08:28.053865"
+}

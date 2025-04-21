@@ -11,8 +11,17 @@ env/
 # 日志文件
 *.log
 
-# 大型模型文件（可选，取决于是否需要版本控制）
-# logs/model.ckpt
+# 大型模型文件
+*.pt
+logs/model.ckpt
+model.ckpt
+
+# 临时数据目录
+log/temp_frames/
+log/mp3_history/
+
+# 嵌入式Git仓库
+Nes2Net_ASVspoof_ITW/
 
 # 系统文件
 .DS_Store

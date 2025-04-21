@@ -1,0 +1,13 @@
+{
+  "audio_path": "a:\\真识\\log\\mp3_history\\2月9日_20250320_131106.mp3",
+  "score": 0.4900749921798706,
+  "is_fake": false,
+  "anomalies": [
+    {
+      "type": "基频异常",
+      "confidence": 0.5916872416647242,
+      "time": "3秒处"
+    }
+  ],
+  "timestamp": "2025-03-20T13:11:10.311842"
+}

@@ -1,0 +1,27 @@
+{
+  "file_path": "A:/真识/test.mp4/2月9日.mp4",
+  "file_type": "video",
+  "audio_score": 0.5087509751319885,
+  "video_score": 0.5,
+  "combined_score": 0.5035003900527955,
+  "is_fake": true,
+  "anomalies": [
+    {
+      "source": "audio",
+      "details": {
+        "type": "基频异常",
+        "confidence": 0.7322709040993929,
+        "time": "9秒处"
+      }
+    },
+    {
+      "source": "audio",
+      "details": {
+        "type": "背景噪声异常",
+        "confidence": 0.6038496377848377,
+        "time": "整段音频"
+      }
+    }
+  ],
+  "timestamp": "2025-03-20T12:41:06.964797"
+}

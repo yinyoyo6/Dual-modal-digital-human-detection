@@ -1,0 +1,20 @@
+{
+  "file_path": "A:/真识/test.mp4/2月9日.mp4",
+  "file_type": "video",
+  "audio_score": 0.4900749921798706,
+  "video_score": 0.5,
+  "combined_score": 0.49602999687194826,
+  "is_fake": false,
+  "confidence_description": "真伪难以确定",
+  "anomalies": [
+    {
+      "source": "audio",
+      "details": {
+        "type": "基频异常",
+        "confidence": 0.5916872416647242,
+        "time": "3秒处"
+      }
+    }
+  ],
+  "timestamp": "2025-03-20T13:11:11.986268"
+}

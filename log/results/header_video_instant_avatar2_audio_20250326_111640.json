@@ -1,0 +1,13 @@
+{
+  "audio_path": "A:/真识/header_video_instant_avatar2.mp3",
+  "score": 0.49517250061035156,
+  "is_fake": false,
+  "anomalies": [
+    {
+      "type": "背景噪声异常",
+      "confidence": 0.9742265055113197,
+      "time": "整段音频"
+    }
+  ],
+  "timestamp": "2025-03-26T11:16:40.847134"
+}

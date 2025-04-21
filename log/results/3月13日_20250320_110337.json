@@ -1,0 +1,18 @@
+{
+  "file_path": "A:/真识/test.mp4/3月13日.mp4",
+  "file_type": "video",
+  "has_audio": true,
+  "audio_score": 0.4899090826511383,
+  "video_score": 0.0,
+  "combined_score": 0.293945449590683,
+  "is_fake": false,
+  "anomalies": [
+    {
+      "source": "audio",
+      "details": {
+        "error": "Numpy is not available"
+      }
+    }
+  ],
+  "timestamp": "2025-03-20T11:03:37.390293"
+}
